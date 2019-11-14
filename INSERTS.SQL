@@ -183,3 +183,64 @@ INSERT INTO Products
 INSERT INTO Products 
 	(ProductID, CostToProduce, Materials, TireType, Profit)
 	VALUES ('040', '69', 'Rubber', 'Comfort Ride', '3490')
+
+Deparment Table Inserts 
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('1234', 'sales', 'phones', 'tires', 'COGS')
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('12033', 'Ads', 'computers', 'rubber', 'cost')
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('12153', '123', '32523', '432', '234');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('1212', '12253', '323523', '4132', '2324');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('113', '1233', '3252123', '4232', '2334');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('12413', '1293', '322123', '42932', '23934');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('11213', '12893', '323123', '442932', '239634');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('1913', '2293', '322123', '44932', '23934');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('32103', '4293', '522123', '32932', '63934');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('5213', '7293', '722123', '62932', '83934');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('2352', 'Digital', 'records', 'blimp', 'profit');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('2356', 'Online', 'feedback', 'auto', 'BS');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('2357', 'Mail', 'reports', 'tires', 'CEO');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('235778', '4325', '6797654', '5683', '67845');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('23557', '43245', '679654', '56843', '678425');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('23577', '4325', '6797654', '5683', '67845');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('73577', '8325', '3797654', '9683', '87845');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('83577', '9325', '97654', '53', '678');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('3577', '325', '67654', '563', '7845');
+
+INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
+VALUES ('83577', '8325', '8797654', '8683', '87845');
