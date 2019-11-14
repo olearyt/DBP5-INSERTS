@@ -121,3 +121,65 @@ INSERT INTO Projects
 INSERT INTO Projects
 	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
 	VALUES ('1020', '2000-11-13', '2001-11-13', '0020', '120')
+	
+Products Table Inserts
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('021', '51', 'Rubber', 'Assurance', '2300')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('022', '52', 'Wire', 'Assurance', '2310')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('023', '53', 'Carbon Black', 'Assurance', '2320')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('024', '54', 'Sulfur', 'Assurance', '2330')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('025', '55', 'Silica', 'Assurance', '2340')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('026', '56', 'Sulfur', 'Assurance', '2350')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('027', '57', 'Sulfur', 'Eagle', '2360')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('028', '58', 'Wire', 'Eagle', '2370')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('029', '59', 'Sulfur', 'All Season', '2380')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('030', '60', 'Rubber', 'All Season', '2390')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('031', '61', 'Carbon Black', 'High Mile', '3400')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('032', '62', 'Silica', 'High Mile', '3410')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('033', '62', 'Wire', 'Speed Rated', '3420')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('034', '63', 'Sulfur', 'Speed Rated', '3430')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('035', '64', 'Rubber', 'Duratec', '3440')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('036', '65', 'Wire', 'Off Road', '3450')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('037', '66', 'Sulfur', 'Off Road', '3460')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('038', '67', 'Carbon Black', 'Comfort Ride', '3470')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('039', '68', 'Silica', 'Comfort Ride', '3480')
+INSERT INTO Products 
+	(ProductID, CostToProduce, Materials, TireType, Profit)
+	VALUES ('040', '69', 'Rubber', 'Comfort Ride', '3490')
