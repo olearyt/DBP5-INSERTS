@@ -183,6 +183,68 @@ INSERT INTO Products
 INSERT INTO Products 
 	(ProductID, CostToProduce, Materials, TireType, Profit)
 	VALUES ('040', '69', 'Rubber', 'Comfort Ride', '3490')
+	
+Benefits Table Inserts
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0001', '6', '3', '34000')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0002', '6', '3', '34310')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0003', '7', '4', '34500')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0004', '6', '3', '33250')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0005', '4', '0', '27500')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0006', '10', '4', '37500')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0007', '6', '2', '33650')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0008', '6', '3', '34000')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0009', '8', '3', '34500')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0010', '6', '3', '34500')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0011', '10', '5', '36000')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0012', '12', '5', '36550')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0013', '12', '4', '36000')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0014', '12', '8', '39750')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0015', '15', '8', '42500')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0016', '15', '8', '43000')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0017', '15', '10', '44444')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0018', '20', '12', '55000')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0019', '20', '10', '55100')
+INSERT INTO Benefits 
+	(EmployeeID, VacationTime, SickDays, Salary)
+	VALUES ('0020', '22', '15', '61000')
 
 Deparment Table Inserts 
 INSERT INTO `departments` (`DepartmentID`, `Marketing`, `Customer Service`, `Production`, `Finance`)
