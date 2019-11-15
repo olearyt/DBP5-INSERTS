@@ -367,3 +367,6 @@ VALUES ('0019', 'AK', 'CO', 'IA');
 INSERT INTO `Locations` (`LocationID`, `production`, `Warehousing`, `Offices`)
 VALUES ('0020', 'MT', 'RI', 'MA');
 
+Treasury Table INSERTS
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`) 
+VALUES (1,1500000,55000,3000000)
