@@ -195,5 +195,66 @@ INSERT INTO `employees`
 
 INSERT INTO `employees` 
 	([EmployeeID], [Email], [Phone], [FirstName], [LastName], [HireDate], [Sales]) 
-	VALUES ('0020', '0020@goodyear.com', '123-456-7909, 'Liz', 'Stark', '2015-10-12', '34000'                                                                                           
+	VALUES ('0020', '0020@goodyear.com', '123-456-7909, 'Liz', 'Stark', '2015-10-12', '34000'          
+	
+	INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1001', '2019-11-13', '2020'-11-13', '0001', '101')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1002', '2018-11-13', '2019-11-13', '0002', '102')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1003', '2017-11-13', '2018-11-13', '0003', '103')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1004', '2016-11-13', '2017-11-13', '0004', '104')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1005', '2015-11-13', '2016-11-13', '0005', '105')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1006', '2014-11-13', '2015-11-13', '0006', '106')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1007', '2013-11-13', '2014-11-13', '0007', '107')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1008', '2012-11-13', '2013-11-13', '0008', '108')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1009', '2011-11-13', '2012-11-13', '0009', '109')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1010', '2010-11-13', '2011-11-13', '0010', '110')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1011', '2009-11-13', '2010-11-13', '0011', '111')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1012', '2008-11-13', '2009-11-13', '0012', '112')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1013', '2007-11-13', '2008-11-13', '0013', '113')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1014', '2006-11-13', '2007-11-13', '0014', '114')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1015', '2005-11-13', '2006-11-13', '0015', '115')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1016', '2004-11-13', '2005-11-13', '0016', '116')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1017', '2003-11-13', '2004-11-13', '0017', '117')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1018', '2002-11-13', '2003-11-13', '0018', '118')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1019', '2001-11-13', '2002-11-13', '0019', '119')
+INSERT INTO Projects
+	(ProjectID, StartDate, CompletionDate, EmployeeID, CustomerID)
+	VALUES ('1020', '2000-11-13', '2001-11-13', '0020', '120'
                                                                                            
